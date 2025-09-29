@@ -11,6 +11,6 @@ public class Solution {
 
             map[nums[i]] = i;
         }
-        return new int[] { -0, 0 };
+        return new int[] { -1, -1 };
     }
 }
